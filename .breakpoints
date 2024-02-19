@@ -1,0 +1,60 @@
+{
+  "files": {
+    "commands/game/tebakgambar.js": [
+      {
+        "id": "2b733c35-a94d-43d1-8d81-0e8ad250c0a2",
+        "line": 10,
+        "version": 102,
+        "index": 331
+      }
+    ],
+    "commands/utility/help.js": [
+      {
+        "id": "26b7f3e9-dcc4-4f0d-a507-a16f65ffe9b4",
+        "line": 120,
+        "version": 5379,
+        "index": 5887
+      }
+    ],
+    "commands/utility/tebakgambar.js": [
+      {
+        "id": "0423043e-f145-42a3-bf6a-0a17e21969ab",
+        "line": 1,
+        "version": 1681,
+        "index": 0
+      }
+    ],
+    "src/commands/client/trigger.js": [
+      {
+        "id": "4fd032ae-419d-463d-a1c7-418792d76741",
+        "line": 1,
+        "version": 94,
+        "index": 0
+      }
+    ],
+    "src/commands/economies/work.js": [
+      {
+        "id": "e9233aef-6eb9-403b-bb13-1a4f2e7b19a0",
+        "line": 48,
+        "version": 1307,
+        "index": 2215
+      }
+    ],
+    "src/config/variable.js": [
+      {
+        "id": "3b8f7524-3d37-4748-9fcc-e954b2e6108b",
+        "line": 27,
+        "version": 9,
+        "index": 515
+      }
+    ],
+    "voice/trackStart.js": [
+      {
+        "id": "53b1f570-5ac1-43c6-af28-03f060be1b5f",
+        "line": 5,
+        "version": 444,
+        "index": 93
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@akarui/aoi.music": "github:AkaruiDevelopment/music#main",
+    "@discordjs/opus": "^0.9.0",
+    "@iamtraction/google-translate": "^1.1.2",
+    "@types/node": "^18.0.6",
+    "aoi.db": "^1.1.0",
+    "aoi.js": "^6.2.6",
+    "aoi.parser": "^1.2.6",
+    "axios": "^0.26.1",
+    "dbd.js-utils": "^0.1.1",
+    "discord-api-types": "^0.37.15-next.aaa57b4.1666469569",
+    "discord-gamecord": "^4.4.0",
+    "discord.js": "^14.10.2",
+    "discord.js-akinator": "^4.0.6",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "hxz-api": "^1.0.1",
+    "instagram-url-direct": "^1.0.13",
+    "lyrics-finder": "^21.7.0",
+    "mongodb": "^4.3.1",
+    "music-info": "^1.2.1",
+    "node-fetch": "^3.2.6",
+    "openai": "^3.2.1",
+    "opusscript": "^0.0.8",
+    "spotify-url-info": "^3.2.3",
+    "ytdl-core-discord": "^1.3.1"
+  },
+  "devDependencies": {
+    "node": "^16.20.0"
+  },
+  "description": ""
+}
